@@ -1,0 +1,122 @@
+body{
+    
+}
+
+.header-in{
+    background: rgb(43, 82, 49);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    height: 12vh;
+    border-bottom: 8px solid white;
+}
+
+.main-in{
+    height: 40rem;
+    background-image: url("pets.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-origin: content-box;
+    margin-top: 0px;
+}
+
+.main-reg{
+    height: 40rem;
+    background-image: url("pets.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-origin: content-box;
+    margin-top: 0px;
+}
+
+.form-reg{
+    text-align: center;
+    margin-left: -28rem;
+}
+
+.menu nav a{
+    color: white;
+    text-decoration: none;
+    font-size: 2rem;
+    padding: 1rem;
+    margin-right: 1rem;
+}
+
+.img-logo{
+    width: 30%;
+}
+
+h1{
+    font-size: 4rem;
+    color: rgb(146, 226, 158);
+    margin-left: 17rem;
+}
+
+.info1{
+    font-size: 1.5rem;
+    color: white;
+    margin-left: -28rem;
+    text-align: center;
+}
+
+.info2{
+    font-size: 1rem;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+h2{
+    color: rgb(146, 226, 158);
+    font-size: 3rem;
+}
+
+.service-txt{
+    background: rgb(43, 82, 49);
+    margin-top: 2rem;
+    width: 50%;
+    height: 15rem;
+    margin-left: 8rem;
+    text-align: center;
+    font-size: 2rem;
+    color: white;
+    border-radius: 10px;
+    border: 6px solid white;
+}
+
+.footer-in{
+    font-size: 1rem;
+    color: white;
+    background: rgb(43, 82, 49);
+    height: 100px;
+    border-top: 4px solid white;
+}
+
+.found{
+    background: rgb(54, 94, 54);
+}
+
+.pets{
+    margin-left: 12%;
+    width: 62rem;
+    background: rgb(54, 94, 45);
+}
+
+.thead{
+    font-size: 1.2rem;
+    margin-left: 3rem;
+}
+
+.search{
+    text-align: right;
+    margin-right: 23.25rem;
+}
+
+.btnReg{
+    margin-left: 40%;
+}
+
+th{
+    
+}
